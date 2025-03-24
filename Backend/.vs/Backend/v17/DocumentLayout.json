@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC246114-6607-4430-91E8-47A921B68C3E}|Domain\\Domain.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC246114-6607-4430-91E8-47A921B68C3E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Enums\\Gender.cs",
+              "RelativeToolTip": "Domain\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:46:13.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
