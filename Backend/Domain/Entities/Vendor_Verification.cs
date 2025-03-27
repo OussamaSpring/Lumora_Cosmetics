@@ -1,12 +1,6 @@
 ﻿
 namespace Domain.Entities.Vendor_Verification
 {
-    public class VerificationStatus
-    {
-        public short Id { get; set; }
-        public string Name { get; set; }
-    }
-
 
     public class VerificationDocumentType
     {
@@ -23,7 +17,7 @@ namespace Domain.Entities.Vendor_Verification
         public DateTime NationalIdExpirationDate { get; set; }
         public DateTime TradeIdExpirationDate { get; set; }
         public string? OtherInfo { get; set; }
-        public short VerificationStatusId { get; set; }
+        public Enums.VerificationStatus Status { get; set; }
         public DateTime? VerificationDate { get; set; }
         public string? Comments { get; set; }
         public DateTime UpdateDate { get; set; }

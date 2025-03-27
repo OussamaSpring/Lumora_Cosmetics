@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5E8134D-E453-4D6C-A792-B906BF9C62D9}|Application Layer\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application layer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5E8134D-E453-4D6C-A792-B906BF9C62D9}|Application Layer\\Application.csproj|solutionrelative:application layer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\persistence\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5E8134D-E453-4D6C-A792-B906BF9C62D9}|Application Layer\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5E8134D-E453-4D6C-A792-B906BF9C62D9}|Application Layer\\Application.csproj|solutionrelative:application layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5E8134D-E453-4D6C-A792-B906BF9C62D9}|Application Layer\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application layer\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E5E8134D-E453-4D6C-A792-B906BF9C62D9}|Application Layer\\Application.csproj|solutionrelative:application layer\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application\\dtos\\user_login_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\dtos\\user_login_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADE5483A-014B-45E0-94BC-451F34302A55}|API\\API.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADE5483A-014B-45E0-94BC-451F34302A55}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2D32C29-7A7A-4606-8176-2AEAA1A33495}|UnitTests\\UnitTests.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D2D32C29-7A7A-4606-8176-2AEAA1A33495}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\persistence\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|solutionrelative:persistence\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,64 +58,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application Layer\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Application Layer\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application Layer\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Application Layer\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Persistence\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\DataHelper.cs",
+              "RelativeToolTip": "Persistence\\DataHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T18:58:01.24Z",
+              "WhenOpened": "2025-03-27T22:48:32.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_Login_Register.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\DTOs\\User_Login_Register.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User_Login_Register.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\DTOs\\User_Login_Register.cs",
+              "RelativeToolTip": "Application\\DTOs\\User_Login_Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:01:31.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application Layer\\Class1.cs",
-              "RelativeDocumentMoniker": "Application Layer\\Class1.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application Layer\\Class1.cs",
-              "RelativeToolTip": "Application Layer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T18:52:09.525Z"
+              "WhenOpened": "2025-03-27T21:50:28.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application Layer\\Application.csproj",
-              "RelativeDocumentMoniker": "Application Layer\\Application.csproj",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application Layer\\Application.csproj",
-              "RelativeToolTip": "Application Layer\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T18:52:04.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTests.csproj",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\UnitTests\\UnitTests.csproj",
-              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\UnitTests\\UnitTests.csproj",
-              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-24T21:13:24.371Z"
+              "DocumentIndex": 0,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwHUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:39:34.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T21:13:13.747Z"
+              "WhenOpened": "2025-03-27T21:58:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:53:42.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Enums\\Enums.cs",
+              "RelativeToolTip": "Domain\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:50:25.952Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OvvkFmNqUN8=",
+  "dgSpecHash": "H+xgCBtx6VY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Persistence\\Persistence.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hpuse\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\hpuse\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\hpuse\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

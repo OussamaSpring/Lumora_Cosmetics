@@ -1,0 +1,16 @@
+﻿
+using Domain.Entities;
+
+
+namespace Application.Interfaces
+{
+    public interface IAuthRepository
+    {
+        Task<User> GetUserByUsernameOrEmailAsync(string usernameOrEmail); // return null if not found
+
+        Task<bool> UsernameExistsAsync(string username);
+        Task<bool> EmailExistsAsync(string email);
+        Task<Guid> CreatePersonAsync(Person person);
+        Task<Guid> CreateUserAsync(User user);
+    }
+}
