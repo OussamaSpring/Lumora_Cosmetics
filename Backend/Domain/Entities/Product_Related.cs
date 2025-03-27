@@ -84,7 +84,7 @@ namespace Domain.Entities.Product_Related
         public decimal? SalePrice { get; set; }
         public DateTime CreateDate { get; set; }
         public DateTime UpdateDate { get; set; }
-        public string ItemVariants { get; set; } // JSON string
+        public string ItemVariants { get; set; } // I'm not sure of the type as it is stored as JSON in the database
         public int ImageId { get; set; }
         public int StockId { get; set; }
     }

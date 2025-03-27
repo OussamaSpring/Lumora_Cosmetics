@@ -1,0 +1,6 @@
+@Lumora_cosmitics_HostAddress = http://localhost:5115
+
+GET {{Lumora_cosmitics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
