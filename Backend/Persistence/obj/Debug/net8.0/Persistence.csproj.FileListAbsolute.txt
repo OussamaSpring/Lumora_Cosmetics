@@ -1,0 +1,11 @@
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\hpuse\Downloads\Telegram Desktop\Lumora_cosmitics\Persistence\obj\Debug\net8.0\ref\Persistence.dll

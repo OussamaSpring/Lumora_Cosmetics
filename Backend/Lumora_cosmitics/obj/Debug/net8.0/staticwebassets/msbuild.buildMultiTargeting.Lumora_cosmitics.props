@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lumora_cosmitics.props" />
+</Project>

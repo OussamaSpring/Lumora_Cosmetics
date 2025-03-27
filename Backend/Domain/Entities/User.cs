@@ -18,6 +18,7 @@ namespace Domain.Entities
         public Guid PersonId { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
+        public string? Image_URL { get; set; }
         public DateTime UpdateDate { get; set; }
         public DateTime? CloseDate { get; set; }
         public short AccountStatus { get; set; }
