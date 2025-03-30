@@ -66,8 +66,7 @@
               "RelativeToolTip": "Persistence\\DataHelper.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T22:48:32.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T22:48:32.722Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Application\\DTOs\\User_Login_Register.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T22:01:31.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T22:01:31.722Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T21:50:28.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:50:28.248Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IAuthRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T21:58:37.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:58:37.413Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T21:53:42.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:53:42.299Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "Domain\\Enums\\Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T21:50:25.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:50:25.952Z"
             }
           ]
         }

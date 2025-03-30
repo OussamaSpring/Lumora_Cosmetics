@@ -122,8 +122,13 @@ namespace Persistence.Repositories
                     command.Parameters.AddWithValue("@personId", user.PersonId);
                     command.Parameters.AddWithValue("@username", user.Username);
                     command.Parameters.AddWithValue("@password", user.Password);
-                    command.Parameters.AddWithValue("@status", (int)Enums.AccountStatus.Active);
                     command.Parameters.AddWithValue("@role", (int)user.Role);
+
+                    if(user.Role.Equals(Enums.UserRole.Vendor))
+                        command.Parameters.AddWithValue("@status", (int)Enums.AccountStatus.Pending);
+                    else
+                        command.Parameters.AddWithValue("@status", (int)Enums.AccountStatus.Active);
+
 
                     return (Guid)await command.ExecuteScalarAsync();
                 }

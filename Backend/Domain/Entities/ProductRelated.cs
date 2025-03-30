@@ -1,5 +1,5 @@
 ﻿
-namespace Domain.Entities.Product_Related
+namespace Domain.Entities
 {
     public class Category
     {
