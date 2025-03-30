@@ -4,7 +4,7 @@ using Domain.Entities;
 
 namespace Application.Interfaces
 {
-    public interface IAuthRepository
+    public interface IUserAuthRepository
     {
         Task<User> GetUserByUsernameOrEmailAsync(string usernameOrEmail); // return null if not found
 

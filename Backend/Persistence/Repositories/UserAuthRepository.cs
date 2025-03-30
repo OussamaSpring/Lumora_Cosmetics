@@ -9,7 +9,7 @@ using Application.Interfaces;
 
 namespace Persistence.Repositories
 {
-    public class AuthRepository : IAuthRepository
+    public class AuthRepository : IUserAuthRepository
     {
         public async Task<User> GetUserByUsernameOrEmailAsync(string usernameOrEmail)
         {
