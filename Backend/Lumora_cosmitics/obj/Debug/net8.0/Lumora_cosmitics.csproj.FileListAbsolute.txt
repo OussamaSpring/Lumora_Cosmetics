@@ -81,3 +81,6 @@ C:\Users\hpuse\Desktop\Lumora_Cosmetics\Coding\Lumora_Cosmetics\Backend\Lumora_c
 C:\Users\hpuse\Desktop\Lumora_Cosmetics\Coding\Lumora_Cosmetics\Backend\Lumora_cosmitics\obj\Debug\net8.0\Lumora_cosmitics.pdb
 C:\Users\hpuse\Desktop\Lumora_Cosmetics\Coding\Lumora_Cosmetics\Backend\Lumora_cosmitics\obj\Debug\net8.0\Lumora_cosmitics.genruntimeconfig.cache
 C:\Users\hpuse\Desktop\Lumora_Cosmetics\Coding\Lumora_Cosmetics\Backend\Lumora_cosmitics\obj\Debug\net8.0\ref\Lumora_cosmitics.dll
+C:\Users\hpuse\Desktop\Lumora_Cosmetics\Coding\Lumora_Cosmetics\Backend\Lumora_cosmitics\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hpuse\Desktop\Lumora_Cosmetics\Coding\Lumora_Cosmetics\Backend\Lumora_cosmitics\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hpuse\Desktop\Lumora_Cosmetics\Coding\Lumora_Cosmetics\Backend\Lumora_cosmitics\bin\Debug\net8.0\Npgsql.dll
