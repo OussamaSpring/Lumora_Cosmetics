@@ -2,8 +2,8 @@
 using Npgsql;
 
 
-
-using Domain.Entities;
+using Domain.Entities.AccountRelated;
+using Domain.Enums.enAccount;
 using Application.Interfaces;
 
 
@@ -18,7 +18,7 @@ namespace Persistence.Repositories
                 await connection.OpenAsync();
 
                 const string query = @"
-                SELECT u.id, u.person_id, u.username, u.password, u.update_date, u.status, u.role
+                SELECT u.id, u.person_id, u.username, u.password, u.profile_image, u.update_date, u.status, u.role
                 FROM ""user"" u
                 JOIN person p ON u.person_id = p.id
                 WHERE u.username = @usernameOrEmail OR p.email = @usernameOrEmail";
@@ -31,15 +31,15 @@ namespace Persistence.Repositories
                     {
                         if (await reader.ReadAsync())
                         {
-                            return new User
-                            {
-                                Id = reader.GetGuid(0),
-                                PersonId = reader.GetGuid(1),
-                                Username = reader.GetString(2),
-                                Password = reader.GetString(3),
-                                UpdateDate = reader.GetDateTime(4),
-                                AccountStatus = (Enums.AccountStatus)reader.GetInt16(5),
-                                Role = (Enums.UserRole)reader.GetInt16(6)
+                            return new User { 
+                            Id = reader.GetGuid(0),
+                            PersonId = reader.GetGuid(1),
+                            Username = reader.GetString(2),
+                            Password = reader.GetString(3),
+                            Profile_Image_URL = reader.GetValue(4) != DBNull.Value ? reader.GetString(4) : null,
+                            UpdateDate = reader.GetDateTime(5),
+                            AccountStatus = (AccountStatus)reader.GetInt16(6),
+                            Role = (UserRole)reader.GetInt16(7)
                             };
                         }
                     }
@@ -49,6 +49,7 @@ namespace Persistence.Repositories
             return null;
         }
 
+
         public async Task<Admin> GetAdminByUsernameOrEmailAsync(string usernameOrEmail)
         {
             using (var connection = DatabaseHelper.CreateConnection())
@@ -56,10 +57,10 @@ namespace Persistence.Repositories
                 await connection.OpenAsync();
 
                 const string query = @"
-        SELECT a.id, a.person_id, a.username, a.password, a.update_date, a.status, a.role
-        FROM ""admin"" u
-        JOIN person p ON a.person_id = p.id
-        WHERE a.username = @usernameOrEmail OR p.email = @usernameOrEmail";
+                SELECT a.id, a.person_id, a.username, a.password, a.update_date, a.status, a.role
+                FROM ""admin"" u
+                JOIN person p ON a.person_id = p.id
+                WHERE a.username = @usernameOrEmail OR p.email = @usernameOrEmail";
 
                 using (var command = new NpgsqlCommand(query, connection))
                 {
@@ -76,7 +77,7 @@ namespace Persistence.Repositories
                                 Username = reader.GetString(2),
                                 Password = reader.GetString(3),
                                 UpdateDate = reader.GetDateTime(4),
-                                AccountStatus = (Enums.AccountStatus)reader.GetInt16(5),
+                                AccountStatus = (AccountStatus)reader.GetInt16(5),
                             };
                         }
                     }
@@ -160,10 +161,10 @@ namespace Persistence.Repositories
                     command.Parameters.AddWithValue("@password", user.Password);
                     command.Parameters.AddWithValue("@role", (int)user.Role);
 
-                    if(user.Role.Equals(Enums.UserRole.Vendor))
-                        command.Parameters.AddWithValue("@status", (int)Enums.AccountStatus.Pending);
+                    if(user.Role.Equals(UserRole.Vendor))
+                        command.Parameters.AddWithValue("@status", (int)AccountStatus.Pending);
                     else
-                        command.Parameters.AddWithValue("@status", (int)Enums.AccountStatus.Active);
+                        command.Parameters.AddWithValue("@status", (int)AccountStatus.Active);
 
 
                     return (Guid)await command.ExecuteScalarAsync();
@@ -173,31 +174,35 @@ namespace Persistence.Repositories
 
         public async Task<string> GenerateUniqueUsername(string firstName)
         {
-            string baseUsername = firstName.ToLower();
-            Random random = new Random();
-            string username;
-            bool exists;
-            byte attempts = 0;
+                string baseUsername = firstName.ToLower();
+                Random random = new Random();
+                string username;
+                bool exists;
+                byte attempts = 0;
 
-            do
-            {
-                int randomNumber = random.Next(100, 999);
-                username = $"{baseUsername}{randomNumber}";
-                exists = await UsernameExistsAsync(username);
-                attempts++;
-
-                if (attempts > 10) // Prevent infinite loop
+                do
                 {
-                    username = $"{baseUsername}{DateTime.Now:fff}"; // Fallback
-                    exists = await UsernameExistsAsync(username);
-                    if (exists)
-                    {
-                        throw new Exception("Failed to generate unique username");
-                    }
-                }
-            } while (exists);
+                    int randomNumber = random.Next(100, 999);
+                    username = $"{baseUsername}{randomNumber}";
 
-            return username;
+                    exists = await UsernameExistsAsync(username);
+                    attempts++;
+
+
+                    if (attempts > 10) // Prevent infinite loop
+                    {
+                        username = $"{baseUsername}{DateTime.Now:fff}"; // Fallback
+                        exists = await UsernameExistsAsync(username);
+                        if (exists)
+                        {
+                            throw new Exception("Failed to generate unique username");
+                        }
+                    }
+
+
+                } while (exists);
+
+                return username;
         }
     }
 }

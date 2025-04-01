@@ -1,6 +1,6 @@
 ﻿
 
-using Enums;
+using Domain.Enums.enAccount;
 
 namespace Application.DTOs
 {
@@ -19,7 +19,7 @@ namespace Application.DTOs
         public string LastName { get; set; }
         public string Email { get; set; }
 
-        public Enums.AccountStatus AccountStatus { get; set; }
+        public AccountStatus AccountStatus { get; set; }
         public UserRole Role { get; set; }
     }
 
@@ -30,7 +30,7 @@ namespace Application.DTOs
         public string LastName { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
-        public Enums.UserRole Role { get; set; }
+        public UserRole Role { get; set; }
     }
 
     public class RegisterResponse
@@ -40,6 +40,6 @@ namespace Application.DTOs
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }
-        public Enums.UserRole Role { get; set; }
+        public UserRole Role { get; set; }
     }
 }

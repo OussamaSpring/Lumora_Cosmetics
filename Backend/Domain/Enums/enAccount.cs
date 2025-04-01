@@ -1,5 +1,5 @@
 ﻿
-namespace Enums
+namespace Domain.Enums.enAccount
 {
     public enum AccountStatus
     {
@@ -17,16 +17,16 @@ namespace Enums
 
     public enum Gender
     {
-        Unknown = 1,
-        Male = 2,
-        Female = 3,
-        Children = 4
+        Male = 1,
+        Female = 2,
+        Unknown = 3
     }
 
     public enum VerificationStatus
     {
         Pending = 1,
         Approved = 2,
-        Rejected = 3
+        Rejected = 3,
+        Under_Review = 4
     }
 }

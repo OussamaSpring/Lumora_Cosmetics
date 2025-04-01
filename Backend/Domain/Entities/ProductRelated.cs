@@ -1,5 +1,7 @@
 ﻿
-namespace Domain.Entities
+using Domain.Enums.enProduct;
+
+namespace Domain.Entities.ProductRelated
 {
     public class Category
     {
@@ -17,12 +19,6 @@ namespace Domain.Entities
         public short CategoryId { get; set; }
     }
 
-    public class ProductStatus
-    {
-        public short Id { get; set; }
-        public string Name { get; set; }
-    }
-
     public class Product
     {
         public int Id { get; set; }
@@ -33,11 +29,11 @@ namespace Domain.Entities
         public string? About { get; set; }
         public string? Ingredients { get; set; }
         public string? HowToUse { get; set; }
-        public Enums.Gender Gender { get; set; }
+        public Gender Gender { get; set; }
         public DateTime CreateDate { get; set; }
         public DateTime UpdateDate { get; set; }
         public short CategoryId { get; set; }
-        public short StatusId { get; set; }
+        public ProductStatus Status { get; set; }
     }
 
     public class ProductImage
@@ -50,13 +46,6 @@ namespace Domain.Entities
         public bool IsPrimary { get; set; } = false;
         public DateTime CreateDate { get; set; } 
         public DateTime UpdateDate { get; set; }
-    }
-
-
-    public class StockStatus
-    {
-        public short Id { get; set; }
-        public string Name { get; set; }
     }
 
     public class Stock
@@ -72,7 +61,7 @@ namespace Domain.Entities
         public float? DiscountRate { get; set; }
         public DateTime? ExpirationDate { get; set; }
         public DateTime? LastRestockDate { get; set; }
-        public short StatusId { get; set; }
+        public StockStatus Status { get; set; }
     }
 
     public class ProductItem
@@ -85,7 +74,7 @@ namespace Domain.Entities
         public DateTime CreateDate { get; set; }
         public DateTime UpdateDate { get; set; }
         public string ItemVariants { get; set; } // I'm not sure of the type as it is stored as JSON in the database
-        public int ImageId { get; set; }
+        public int ImageId { get; set; } // I still not sure how to do this (need discussion)
         public int StockId { get; set; }
     }
 }
