@@ -1,8 +1,12 @@
 ﻿
-
-
-namespace Domain.Entities.VendorVerification
+namespace Domain.Entities.Vendor_Verification
 {
+    public class VerificationStatus
+    {
+        public short Id { get; set; }
+        public string Name { get; set; }
+    }
+
 
     public class VerificationDocumentType
     {
@@ -19,7 +23,7 @@ namespace Domain.Entities.VendorVerification
         public DateTime NationalIdExpirationDate { get; set; }
         public DateTime TradeIdExpirationDate { get; set; }
         public string? OtherInfo { get; set; }
-        public VerificationStatus Status { get; set; }
+        public short VerificationStatusId { get; set; }
         public DateTime? VerificationDate { get; set; }
         public string? Comments { get; set; }
         public DateTime UpdateDate { get; set; }
@@ -34,8 +38,6 @@ namespace Domain.Entities.VendorVerification
         public string FrontDocumentUrl { get; set; }
         public string? BackDocumentUrl { get; set; }
         public DateTime UploadDate { get; set; }
-        public string DocumentTypeName { get; set; }
-
     }
 }
 

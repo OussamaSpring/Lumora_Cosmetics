@@ -1,54 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A646C41F-358D-4702-8D5F-AEFAE596B4C3}|Lumora_cosmitics\\Lumora_cosmitics.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\lumora_cosmitics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A646C41F-358D-4702-8D5F-AEFAE596B4C3}|Lumora_cosmitics\\Lumora_cosmitics.csproj|solutionrelative:lumora_cosmitics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A646C41F-358D-4702-8D5F-AEFAE596B4C3}|Lumora_cosmitics\\Lumora_cosmitics.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\lumora_cosmitics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A646C41F-358D-4702-8D5F-AEFAE596B4C3}|Lumora_cosmitics\\Lumora_cosmitics.csproj|solutionrelative:lumora_cosmitics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\persistence\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|solutionrelative:persistence\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\persistence\\repositories\\userauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\userauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\persistence\\repositories\\adminauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA56E0F4-106A-481B-A8EF-4F2669C178C8}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\adminauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C787EC5-4229-4FFF-83F9-D8C15BD682BC}|Infrastructure\\Infrastructure.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\infrastructure\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6C787EC5-4229-4FFF-83F9-D8C15BD682BC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application\\interfaces\\iadminauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iadminauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application\\interfaces\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\application\\interfaces\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\application\\interfaces\\iuserauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|c:\\users\\hpuse\\desktop\\lumora_cosmetics\\coding\\lumora_cosmetics\\backend\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\domain\\entities\\product_related.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product_related.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\domain\\entities\\vendor_verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\vendor_verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE97926-D6F6-4F5A-81AB-998709B2F78F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01BDCFC0-3355-448A-B95C-A49E4791CD7B}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C787EC5-4229-4FFF-83F9-D8C15BD682BC}|Infrastructure\\Infrastructure.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C787EC5-4229-4FFF-83F9-D8C15BD682BC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E6CAE1-60E6-4A5F-9103-35B820A30F21}|Presentation\\Presentation.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73E6CAE1-60E6-4A5F-9103-35B820A30F21}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A646C41F-358D-4702-8D5F-AEFAE596B4C3}|Lumora_cosmitics\\Lumora_cosmitics.csproj|c:\\users\\hpuse\\downloads\\telegram desktop\\lumora_cosmitics\\lumora_cosmitics\\lumora_cosmitics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A646C41F-358D-4702-8D5F-AEFAE596B4C3}|Lumora_cosmitics\\Lumora_cosmitics.csproj|solutionrelative:lumora_cosmitics\\lumora_cosmitics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,45 +54,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Lumora_cosmitics\\appsettings.json",
-              "RelativeDocumentMoniker": "Lumora_cosmitics\\appsettings.json",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Lumora_cosmitics\\appsettings.json",
-              "RelativeToolTip": "Lumora_cosmitics\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T21:58:08.276Z",
+              "DocumentIndex": 0,
+              "Title": "IVendorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IVendorRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IVendorRepository.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IVendorRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IVendorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:33:03.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Lumora_cosmitics\\Program.cs",
-              "RelativeDocumentMoniker": "Lumora_cosmitics\\Program.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Lumora_cosmitics\\Program.cs",
-              "RelativeToolTip": "Lumora_cosmitics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Enums\\Gender.cs",
+              "RelativeToolTip": "Domain\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:56:42.76Z",
+              "WhenOpened": "2025-03-27T19:28:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product_Related.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\Product_Related.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product_Related.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\Product_Related.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product_Related.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:26:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vendor_Verification.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\Vendor_Verification.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Vendor_Verification.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\Vendor_Verification.cs",
+              "RelativeToolTip": "Domain\\Entities\\Vendor_Verification.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:25:36.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Infrastructure\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Infrastructure\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Infrastructure\\appsettings.Development.json",
-              "RelativeToolTip": "Infrastructure\\appsettings.Development.json",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:22:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T21:51:54.306Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T19:20:57.115Z",
               "EditorCaption": ""
             },
             {
@@ -117,114 +152,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\DataHelper.cs",
-              "RelativeDocumentMoniker": "Persistence\\DataHelper.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\DataHelper.cs",
-              "RelativeToolTip": "Persistence\\DataHelper.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:11:28.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\Repositories\\UserAuthRepository.cs",
-              "RelativeDocumentMoniker": "Persistence\\Repositories\\UserAuthRepository.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\Repositories\\UserAuthRepository.cs",
-              "RelativeToolTip": "Persistence\\Repositories\\UserAuthRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:07:34.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IVendorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IVendorRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IVendorRepository.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IVendorRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IVendorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:04:49.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "Application\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:03:59.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IUserAuthRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserAuthRepository.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IUserAuthRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IUserAuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:02:25.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:57:31.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Entities\\Admin.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Admin.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Domain\\Entities\\Admin.cs",
-              "RelativeToolTip": "Domain\\Entities\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:57:26.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\Repositories\\AdminAuthRepository.cs",
-              "RelativeDocumentMoniker": "Persistence\\Repositories\\AdminAuthRepository.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Persistence\\Repositories\\AdminAuthRepository.cs",
-              "RelativeToolTip": "Persistence\\Repositories\\AdminAuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:56:31.405Z",
+              "WhenOpened": "2025-03-27T18:58:45.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IAdminAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IAdminAuthRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IAdminAuthRepository.cs",
-              "ToolTip": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\Application\\Interfaces\\IAdminAuthRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IAdminAuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:54:12.932Z"
+              "WhenOpened": "2025-03-27T18:57:44.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lumora_cosmitics.csproj",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Lumora_cosmitics\\Lumora_cosmitics.csproj",
+              "RelativeDocumentMoniker": "Lumora_cosmitics\\Lumora_cosmitics.csproj",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Lumora_cosmitics\\Lumora_cosmitics.csproj",
+              "RelativeToolTip": "Lumora_cosmitics\\Lumora_cosmitics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T16:39:14.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T16:38:58.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T16:38:01.575Z"
             }
           ]
         }

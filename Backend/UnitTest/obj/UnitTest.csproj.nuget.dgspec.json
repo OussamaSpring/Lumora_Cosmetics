@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\UnitTest\\UnitTest.csproj": {}
+    "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\UnitTest\\UnitTest.csproj": {
+    "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\UnitTest\\UnitTest.csproj",
+        "projectPath": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\UnitTest\\UnitTest.csproj",
         "packagesPath": "C:\\Users\\hpuse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hpuse\\Desktop\\Lumora_Cosmetics\\Coding\\Lumora_Cosmetics\\Backend\\UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
