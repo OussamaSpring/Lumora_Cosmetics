@@ -54,6 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           "SelectedChildIndex": 0,
 =======
@@ -61,6 +62,89 @@
 >>>>>>> Stashed changes
           "Children": [
             {
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IVendorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IVendorRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IVendorRepository.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IVendorRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IVendorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:33:03.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Enums\\Gender.cs",
+              "RelativeToolTip": "Domain\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:28:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product_Related.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\Product_Related.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product_Related.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\Product_Related.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product_Related.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:26:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vendor_Verification.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\Vendor_Verification.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Vendor_Verification.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\Vendor_Verification.cs",
+              "RelativeToolTip": "Domain\\Entities\\Vendor_Verification.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:25:36.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:22:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T19:20:57.115Z",
+              "EditorCaption": ""
+            },
+            {
+>>>>>>> parent of 8fb1d54 (Merge pull request #3 from OussamaSpring/Oussama)
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
@@ -78,6 +162,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "IVendorRepository.cs",
               "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IVendorRepository.cs",
@@ -166,6 +251,8 @@
             },
             {
               "$type": "Document",
+=======
+>>>>>>> parent of 8fb1d54 (Merge pull request #3 from OussamaSpring/Oussama)
               "DocumentIndex": 1,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\hpuse\\Downloads\\Telegram Desktop\\Lumora_cosmitics\\Application\\Interfaces\\IUserRepository.cs",
