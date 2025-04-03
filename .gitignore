@@ -1,0 +1,42 @@
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# ASP.NET specific files
+appsettings.json
+appsettings.*.json
+Properties/launchSettings.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Publish output
+Publish/
+*.publish.xml
+*.azurePubxml
+
+# IDE settings
+.vscode/
+.idea/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
